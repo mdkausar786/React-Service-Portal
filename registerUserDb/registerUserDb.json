@@ -1,0 +1,60 @@
+{
+  "registeruser": [
+    {
+      "id": 1,
+      "name": "md",
+      "email": "a@gmail.com",
+      "password": "Sk@154652768",
+      "phone": "7003557856"
+    },
+    {
+      "id": 2,
+      "name": "kausar",
+      "email": "abc@gmail.com",
+      "password": "Sk@1552768",
+      "phone": "8763557856"
+    },
+    {
+      "name": "test2",
+      "email": "da@gmail.com",
+      "password": "Sks@154652768",
+      "phone": "7088557856",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "phone": "",
+      "id": 4
+    },
+    {
+      "name": "Md kausar",
+      "email": "",
+      "password": "",
+      "phone": "",
+      "id": 5
+    },
+    {
+      "name": "Md kausar",
+      "email": "",
+      "password": "y",
+      "phone": "",
+      "id": 6
+    },
+    {
+      "name": "Md kausar",
+      "email": "",
+      "password": "yt",
+      "phone": "",
+      "id": 7
+    },
+    {
+      "name": "final",
+      "email": "",
+      "password": "Sk@000786",
+      "phone": "9470244795",
+      "id": 8
+    }
+  ]
+}

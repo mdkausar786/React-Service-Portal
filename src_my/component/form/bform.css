@@ -1,0 +1,23 @@
+button,
+input {
+  display: block;
+  margin-bottom: 10px;
+
+}
+button{
+    background-color:rgb(132, 132, 239);
+}
+body{
+    
+    background-color:rgb(37, 165, 37);
+}
+.form{
+  /* border: 1px solid black; */
+  width: 25%;
+  margin:auto ;
+  margin-top: 16%;
+  margin-left:40%
+}
+h1{
+  color:rgb(245, 248, 250);
+}
